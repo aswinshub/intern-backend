@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f1590561.css",
+    "main.js": "/static/js/main.8dca6fd4.js",
+    "static/media/softwareengineer.jpg": "/static/media/softwareengineer.9a830883dfaf60b2642f.jpg",
+    "static/media/cybersecurity.jpg": "/static/media/cybersecurity.913c2d3d5406ae5393e5.jpg",
+    "static/media/systemadmintratir.jpg": "/static/media/systemadmintratir.43ea4b31120782a48a79.jpg",
+    "static/media/GRA_Home-Header-Overlay.png": "/static/media/GRA_Home-Header-Overlay.f661b9fc1537a71ebca8.png",
+    "static/media/datascience.jpg": "/static/media/datascience.7224065de2e68783f859.jpg",
+    "static/media/uiux.jpg": "/static/media/uiux.ab4f2a3c992984857c54.jpg",
+    "static/media/mobileapp.jpg": "/static/media/mobileapp.74cc7139abf8a83e3b9c.jpg",
+    "static/media/webdeveopment.jpg": "/static/media/webdeveopment.27ac244aef21637e1c7b.jpg",
+    "static/media/background.jpg": "/static/media/background.6ad3ab950ba636608f6d.jpg",
+    "static/media/cloudcomputing.jpg": "/static/media/cloudcomputing.dc404de3ea86fc99e59c.jpg",
+    "static/media/Logo_ict.png": "/static/media/Logo_ict.47daeea97aa7261732a9.png",
+    "index.html": "/index.html",
+    "main.f1590561.css.map": "/static/css/main.f1590561.css.map",
+    "main.8dca6fd4.js.map": "/static/js/main.8dca6fd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1590561.css",
+    "static/js/main.8dca6fd4.js"
+  ]
+}
